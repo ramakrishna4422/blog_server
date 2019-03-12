@@ -1,0 +1,20 @@
+{
+    "name": "mobiles",
+    "image": "./assets/images/mobiles.png",
+    "subcategory": [
+        {
+            "name": "Mobile Phones",
+            "image": "./assets/images/mobiles/phones.png",
+            "sub": [
+                {
+                    "name": "Moto (Indigo Black, 3GB RAM, 32GB Storage)",
+                    "image": "",
+                    "date": "",
+                    "model": "Moto E5 Plus",
+                    "location": "india,hyderabad",
+                    "details": "Camera: 12 MP Rear camera with Laser auto focus and LED flash | 5 MP front camera with flash Display- 15.21 cm (6-inches) HD+ Max Vision IPS LCD capacitive touchscreen display with 720x1440 pixels and 18-9 aspect ratio Memory, Storage & SIM- 3GB RAM | 32GB storage expandable up to 128GB with dedicated slot | Dual nano SIM with dual standby (4G+4G)",
+                    "price": "11,999.00"
+                }
+            ]
+        }]
+}

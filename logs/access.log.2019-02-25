@@ -1,0 +1,5 @@
+[2019-02-25T20:00:44.902] [INFO] http - GET==/api/products
+[2019-02-25T20:00:44.905] [INFO] http - GET==/users/
+[2019-02-25T20:00:52.412] [INFO] http - POST==/users/login
+[2019-02-25T20:02:45.209] [INFO] http - GET==/users/
+[2019-02-25T20:02:52.713] [INFO] http - POST==/users/login

@@ -1,0 +1,12 @@
+[2019-02-24T12:16:56.541] [INFO] http - POST==/users/login
+[2019-02-24T12:19:21.998] [INFO] http - POST==/users/login
+[2019-02-24T12:24:52.131] [INFO] http - POST==/users/login
+[2019-02-24T12:30:44.329] [INFO] http - POST==/users/login
+[2019-02-24T12:31:37.847] [INFO] http - POST==/users/login
+[2019-02-24T12:50:14.447] [INFO] http - POST==/users/login
+[2019-02-24T13:46:51.542] [INFO] http - POST==/users/login
+[2019-02-24T14:26:09.886] [INFO] http - POST==/users/login
+[2019-02-24T14:26:25.922] [INFO] http - GET==/api/products
+[2019-02-24T14:26:25.936] [INFO] http - GET==/users/
+[2019-02-24T15:04:55.031] [INFO] http - GET==/api/products
+[2019-02-24T15:04:55.066] [INFO] http - GET==/users/

@@ -1,0 +1,14 @@
+{
+    "address": [
+        "Ameerpet Hyderabad",
+        "Ameerpet Hyderabad"
+    ],
+    "_id": "5bdb2fdfaba4030962a11a9c",
+    "name": "ABCD",
+    "type": "user",
+    "email": "abcd@gmail.com",
+    "password": "@dmin1234",
+    "phoneNumber": "9999999999",
+    "activeStatus": false,
+    "gender": "male"
+}

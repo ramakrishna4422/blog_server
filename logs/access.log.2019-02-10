@@ -1,0 +1,17 @@
+[2019-02-10T21:21:39.398] [INFO] http - POST==/users/login
+[2019-02-10T21:21:42.240] [INFO] http - GET==/api/products
+[2019-02-10T21:21:42.278] [INFO] http - GET==/users/
+[2019-02-10T22:02:39.978] [INFO] http - GET==/favicon.ico
+[2019-02-10T22:20:29.905] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:21:46.303] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:22:14.355] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:23:59.518] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:28:23.309] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:29:35.804] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:30:26.639] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:33:35.505] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T22:33:54.770] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T23:00:22.827] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T23:09:00.774] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T23:09:38.726] [INFO] http - GET==/socket.io/socket.io.js
+[2019-02-10T23:11:51.553] [INFO] http - GET==/socket.io/socket.io.js

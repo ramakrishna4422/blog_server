@@ -1,0 +1,13 @@
+[2018-11-16T20:12:20.768] [INFO] http - POST==/login
+[2018-11-16T20:12:38.995] [INFO] http - POST==/login
+[2018-11-16T20:13:16.421] [INFO] http - POST==/login
+[2018-11-16T20:14:43.864] [INFO] http - POST==/login
+[2018-11-16T20:15:07.739] [INFO] http - POST==/login
+[2018-11-16T20:15:24.593] [INFO] http - POST==/login
+[2018-11-16T20:17:38.456] [INFO] http - POST==/login
+[2018-11-16T20:22:20.182] [INFO] http - POST==/login
+[2018-11-16T22:47:05.764] [INFO] http - POST==/role
+[2018-11-16T22:49:39.377] [INFO] http - GET==/products
+[2018-11-16T22:54:37.277] [INFO] http - GET==/products
+[2018-11-16T22:56:08.405] [INFO] http - POST==/login
+[2018-11-16T22:56:35.572] [INFO] http - GET==/products
